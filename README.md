@@ -3,7 +3,7 @@
 O Jogo foi feito nos estudos da matéria de linguagem de programação na UNIMAR utilizando dotnet
 * É um form na linguagem C# 
 * Primeiramente eu havia utilizado o while mas optei por fazer somente com condicionais para que a cada vez que o usuário apertasse o botão 1 partida iria acontecer
-
+* Coloquei em cada linha de código uma explicação do que eu fiz
 
 
 ## Techs
